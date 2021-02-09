@@ -12,10 +12,10 @@ The bot will access CPCE Moodle by using user's' account info in secret.py .
 * Python 3
 
 ## How to use this bot
-1.Download all the files
-2.Replace your username and password inside secret.py
-3.Execute main.py
-4.Your attendance is marked.
+1.Download all the files<br>
+2.Replace your username and password inside secret.py<br>
+3.Execute main.py<br>
+4.Your attendance is marked<br>
 
 ## Further Inquiries
 Kindly leave a comment on Github Issues. 
