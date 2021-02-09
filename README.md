@@ -3,6 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/226914011/HKCC_Attendance_Bot?color=green)](https://github.com/226914011/HKCC_Attendance_Bot/network)
 [![GitHub issues](https://img.shields.io/github/issues/226914011/HKCC_Attendance_Bot)](https://github.com/226914011/HKCC_Attendance_Bot/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/226914011/HKCC_Attendance_Bot/issues)
+
 A HKCC Attendance Bot Create By Nori_egg
 This Attendance Bot is mainly for HKCC student under CPCE to take attendance automatically, to prevent absence record.
 The bot will access CPCE Moodle by using user's' account info in secret.py .
