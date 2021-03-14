@@ -9,7 +9,7 @@ This Attendance Bot is mainly for HKCC student under CPCE to take attendance aut
 The bot will access CPCE Moodle by using user's account info in secret.py.
 
 ## Development Language
-* Python 3
+* Python
 
 ## How to use this bot
 1.Download all the files.<br>
