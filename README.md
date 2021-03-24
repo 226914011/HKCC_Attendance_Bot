@@ -11,6 +11,11 @@ The bot will access CPCE Moodle by using user's account info in secret.py.
 ## Development Language
 * Python
 
+## Module Require
+* requests
+* browser_cookie3
+* bs4
+
 ## How to use this bot
 1.Download all the files.<br>
 2.Replace your username and password inside secret.py.<br>
