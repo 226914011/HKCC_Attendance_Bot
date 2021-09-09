@@ -6,7 +6,7 @@
 
 A HKCC Attendance Bot Create By [26914011(Nori_egg)](https://github.com/226914011).<br>
 This Attendance Bot is mainly for HKCC student under CPCE to take attendance automatically, to prevent absence record.<br>
-The bot will access CPCE Moodle by using user's account info in secret.py.
+The bot will access CPCE Moodle by using user's account info in secret.py.<br>
 
 ## Things needed before install
 * Python
@@ -32,6 +32,12 @@ For any issues, please feel free to leave a comment on Github Issues.
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+
+## Disclaimer
+This script will only store student data on their local pc.<br>
+No data will be collected.<br>
+The author is not responsible for any type of damage caused by including, but not limited to using or relying on this script.<br>
+By accessing or using this script, users acknowledge and agree to be bound by the terms of this disclaimer.<br>
 
 ## License
 ```
