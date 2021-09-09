@@ -18,13 +18,6 @@ The bot will access CPCE Moodle by using user's account info in secret.py.<br>
 3.Execute run.bat.<br>
 4.Your attendance is marked.<br>
 
-## Development Language
-* Python
-
-## Module Require
-* requests
-* bs4
-
 ## Further Inquiries
 For any issues, please feel free to leave a comment on Github Issues. 
 
@@ -32,6 +25,13 @@ For any issues, please feel free to leave a comment on Github Issues.
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+
+## Development Language
+* Python
+
+## Module Require
+* requests
+* bs4
 
 ## Disclaimer
 This script will only store student data on their local pc.<br>
