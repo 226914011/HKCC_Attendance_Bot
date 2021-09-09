@@ -10,7 +10,7 @@ The bot will access CPCE Moodle by using user's account info in secret.py.
 
 ## Things needed before install
 * Python
-* Pip
+* [Pip](https://pip.pypa.io/en/stable/installation/)
 
 ## How to use this bot
 1.Download all the files.<br>
