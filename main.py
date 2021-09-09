@@ -14,7 +14,7 @@ except ImportError:
 	import bs4
 
 
-from secrets import username, password #import username and password
+from secret import username, password #import username and password
 
 #Print Current time
 from datetime import datetime
