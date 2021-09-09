@@ -13,7 +13,6 @@ The bot will access CPCE Moodle by using user's account info in secret.py.
 
 ## Module Require
 * requests
-* browser_cookie3
 * bs4
 
 ## How to use this bot
