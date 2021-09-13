@@ -17,6 +17,7 @@ The bot will access CPCE Moodle by using user's account info in secret.py.<br>
 2.Replace your username and password inside secret.py.<br>
 3.Execute run.bat.<br>
 4.Your attendance is marked.<br>
+(Please use cron job to take attendance fully automatically.)
 
 ## Further Inquiries
 For any issues, please feel free to leave a comment on Github Issues. 
