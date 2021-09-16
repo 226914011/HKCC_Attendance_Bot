@@ -16,6 +16,7 @@ except ImportError:
 
 from secret import username, password #import username and password
 
+#User Ac defalt check
 if username == "XXXXXXXXA" or password == "XXXXXXXXX":
 	print("Please replace your username and password first.")
 	exit(1)
@@ -106,6 +107,12 @@ data= result2.text
 soup=bs4.BeautifulSoup(data, "html.parser")
 SAMLResponse = soup.find("input",{"name":"SAMLResponse"})
 RelayState = soup.find("input",{"name":"RelayState"})
+
+#User Ac Validation Check
+if SAMLResponse is None:
+	print("Username or password invalid,please try agin.")
+	print()
+	exit(1)
 
 data = {
 	"SAMLResponse": SAMLResponse.get('value'),
