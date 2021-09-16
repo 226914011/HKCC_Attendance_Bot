@@ -16,6 +16,10 @@ except ImportError:
 
 from secret import username, password #import username and password
 
+if username == "XXXXXXXXA" or password == "XXXXXXXXX":
+	print("Please replace your username and password first.")
+	exit(1)
+
 #Print Current time
 from datetime import datetime
 
